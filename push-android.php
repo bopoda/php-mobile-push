@@ -1,7 +1,7 @@
 <?php
-// API access key from Google API's Console
+// API access key from Google API's Console, smt like "AIzaSyTTOoVZfSDso7OWYrkIHOUx34BIwP2Z57A"
 $googleApiKey = 'YOUR_SERVER_KEY_FROM_GOOGLE_CONSOLE_SETTINGS';
-// User Device token
+// User Device token, smt like "APG36bF_7JfPXcsCq7-PLoDuu6av5aKUmMatfk5bI6sOXOnOdO4PvWqXoe4RpnzrjPkhy6iUvNoqBF7Ij5K2K7PrbyVe_atrBl2SHPHuqiITopby8FcXdy-uqlla5OsEmLpcZJraKUP-OondhRfW9DXYC1aurjOHKg
 $deviceToken = 'USER_DEVICE_TOKEN';
 
 // prep the bundle
